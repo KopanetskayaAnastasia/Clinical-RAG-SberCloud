@@ -1,0 +1,13 @@
+﻿fastapi
+uvicorn[standard]
+python-dotenv
+pydantic-settings
+httpx
+python-multipart
+pypdf
+python-docx
+clickhouse-connect
+boto3
+openai
+pytest
+tiktoken
